@@ -1,0 +1,12 @@
+2020-07-20 11:06:05.229  INFO 10020 --- [main] com.example.demo.DemoApplicationTests    : Starting DemoApplicationTests on zhoujun46150 with PID 10020 (started by zhoujun46 in D:\MyData\zhoujun46\Desktop\demo)
+2020-07-20 11:06:05.234  INFO 10020 --- [main] com.example.demo.DemoApplicationTests    : No active profile set, falling back to default profiles: default
+2020-07-20 11:06:05.984  INFO 10020 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-07-20 11:06:05.988  INFO 10020 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-07-20 11:06:06.023  INFO 10020 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2020-07-20 11:06:07.192  INFO 10020 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-20 11:06:07.484  INFO 10020 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-20 11:06:07.808  INFO 10020 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-20 11:06:07.833  INFO 10020 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-20 11:06:07.854  INFO 10020 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-20 11:06:07.955  INFO 10020 --- [main] com.example.demo.DemoApplicationTests    : Started DemoApplicationTests in 2.976 seconds (JVM running for 3.801)
+2020-07-20 11:06:08.123  INFO 10020 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
