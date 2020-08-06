@@ -6,5 +6,9 @@ package com.example.demo.framework;
  * @author: junZhou
  * @date: 2020/8/3
  **/
-public class SinaChannelRule {
+public class SinaChannelRule extends GeneralChannelRule {
+    @Override
+    public void process() {
+
+    }
 }
